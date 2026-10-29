@@ -20,10 +20,7 @@ A beautiful and interactive **Flower Animation** created using **HTML, CSS, and 
 ---
 
 ## 🖼️ Preview
-
-<p align="center">
-  <img src="assets/preview.gif" width="700" alt="Interactive Flowers Design Preview">
-</p>
+https://pranjalvidyarthi.github.io/Interactive_Flowers/
 
 ---
 
