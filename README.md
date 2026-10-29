@@ -2,8 +2,6 @@
 
 A beautiful and interactive **Flower Animation** created using **HTML, CSS, and JavaScript**.
 
-This project combines creative CSS animations with JavaScript interactions to create an elegant digital flower experience. It is designed as a visually engaging frontend project that demonstrates how simple web technologies can be used to create impressive animations without relying on external frameworks.
-
 ---
 
 ## ✨ Features
@@ -27,8 +25,6 @@ This project combines creative CSS animations with JavaScript interactions to cr
   <img src="assets/preview.gif" width="700" alt="Interactive Flowers Design Preview">
 </p>
 
-> Replace `assets/preview.gif` with the actual location of your preview GIF.
-
 ---
 
 ## 🛠️ Technologies Used
@@ -50,8 +46,7 @@ Interactive-Flowers/
 ├── style.css
 ├── script.js
 │
-├── assets/
-│   └── preview.gif
+│── preview.gif
 │
 └── README.md
 ```
@@ -63,7 +58,7 @@ Interactive-Flowers/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/interactive-flowers.git
+git clone https://github.com/Ypranjalvidyarthi/interactive-flowers.git
 ```
 
 ### 2. Open the project
@@ -235,35 +230,6 @@ Some ideas for future versions:
 * 💫 Add interactive backgrounds
 * 📱 Improve mobile interactions
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a new branch:
-
-```bash
-git checkout -b feature/new-effect
-```
-
-3. Make your changes.
-4. Commit your changes:
-
-```bash
-git commit -m "Add new flower effect"
-```
-
-5. Push your branch:
-
-```bash
-git push origin feature/new-effect
-```
-
-6. Open a Pull Request.
-
----
 
 ## 📜 License
 
